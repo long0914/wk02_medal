@@ -1,0 +1,15 @@
+/workspaces/wk02_medal/bin/Debug/net8.0/wk02_medal
+/workspaces/wk02_medal/bin/Debug/net8.0/wk02_medal.deps.json
+/workspaces/wk02_medal/bin/Debug/net8.0/wk02_medal.runtimeconfig.json
+/workspaces/wk02_medal/bin/Debug/net8.0/wk02_medal.dll
+/workspaces/wk02_medal/bin/Debug/net8.0/wk02_medal.pdb
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.AssemblyInfoInputs.cache
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.AssemblyInfo.cs
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.csproj.CoreCompileInputs.cache
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.sourcelink.json
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.dll
+/workspaces/wk02_medal/obj/Debug/net8.0/refint/wk02_medal.dll
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.pdb
+/workspaces/wk02_medal/obj/Debug/net8.0/wk02_medal.genruntimeconfig.cache
+/workspaces/wk02_medal/obj/Debug/net8.0/ref/wk02_medal.dll
